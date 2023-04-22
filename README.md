@@ -9,3 +9,5 @@ allows someone to keep track of their financial portfolio. The upgrades for this
 
 Ill most likely being using the PERN stack but I have not made a final decision yet. 
 
+I will be using seaborne as a new technology to include charts.
+
